@@ -54,7 +54,7 @@ export default function Home() {
         />
       </Group>
 
-      <Text ta="center" my="sm" c="dimmed">
+      <Text ta="center" my="sm" c="dimmed" fz="15">
         Copyright © 2024 Pornpailin Jaowatthanaphong 660610777
       </Text>
     </Container>
